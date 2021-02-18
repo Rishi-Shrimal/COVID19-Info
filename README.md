@@ -1,1 +1,2 @@
-# COVID19-Info
+# COVID-INFO
+Covid-19 information
